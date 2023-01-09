@@ -2,3 +2,6 @@
 ETL pipeline using Kafka, AWS EC2, S3 and Snowflake
 
 Refer article
+
+
+![ETL Pipeline](Stock Market ETL.png)
